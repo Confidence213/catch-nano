@@ -7,6 +7,7 @@ Learned and used:
 * View Binding
 * Runnable
 * Handler
+* Keeping images as xml file
 * CountDownTimer
 * Alert Dialog
 * Layouts:
