@@ -2,11 +2,12 @@
 
 A simple android game that I made for an introduction to android coding.
 
-Learned:
-* Custom Actionbar. (Actionbars are outdated though)
-* View Binding.
+Learned and used:
+* Custom Actionbar (Actionbars are outdated though)
+* View Binding
 * Runnable
-* CountDownTimer.
+* Handler
+* CountDownTimer
 * Alert Dialog
 * Layouts:
   - Constraint Layout
@@ -14,4 +15,8 @@ Learned:
   - Grid Layout
 
 
+## About the game:
 
+The users try to earn the highest score they can by clicking on the nano icons that appear on the screen as many times as possible until the time expires.
+
+(TODO) •> Add Screenshots and gameplay video here...
